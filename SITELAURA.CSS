@@ -1,0 +1,47 @@
+*{
+   margin: 0;
+   padding: 0px;
+}
+.cabecalho {
+
+
+background-image: linear-gradient(rgb(197, 137, 197), rgb(255, 244, 142));
+color: #00000086;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 50px;
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16;
+    font-size: 120px;
+}
+.laura-imagem{
+    width: 25%;
+}
+.laura{
+    background-image: linear-gradient( rgb(255, 244, 142),rgb(197, 137, 197 ));
+    color: rgb(45, 95, 139);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 24px;
+}
+.laura2{
+    background-image: linear-gradient(rgb(197, 137, 197), rgb(255, 244, 142  ));
+    color: rgb(45, 95, 139);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+.laura-div-conteudo{
+    width: 35%;
+}
+.laura-titulo{
+    padding: 24px;
+}
